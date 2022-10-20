@@ -1,0 +1,7 @@
+matplotlib==3.3.0
+numpy==1.18.5
+graphviz==0.8.4
+torch==1.2.0
+sympy==1.6.2
+tqdm==4.47.0
+transformers==3.0.2
