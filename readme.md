@@ -1,13 +1,13 @@
-###1. Introduction
+### 1. Introduction
 This repository is the implementation of 
 [Structure-Unified M-Tree Coding Solver for MathWord Problem](), which is accepted by EMNLP 2022.
 
-####Requirements
+#### Requirements
 ```python
 pip install -r requirements.txt
 ```
 
-###2. Usage for SUMC-Solver-PLM
+### 2. Usage for SUMC-Solver-PLM
 #### train or test SUMC-Solver on Math23k
 ```
 go to ./SUMC_PLM/Math23K
@@ -31,7 +31,7 @@ or
 python run_test_mwp_solver_bert.py
 ```
 
-###3. Usage for SUMC-Solver-RNN
+### 3. Usage for SUMC-Solver-RNN
 #### train or test SUMC-Solver on Math23k
 ```
 go to ./SUMC_RNN/Math23K_RNN
